@@ -1,0 +1,1 @@
+Havia ainda outros dados relevantes a serem apresentados, bem como testes adicionais com resultados positivos obtidos no Fashion-MNIST. Contudo, optei por restringir o conteúdo em função do limite de 15 páginas estabelecido (e pelo limite de tempo também).
