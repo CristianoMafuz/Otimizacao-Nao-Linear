@@ -1,2 +1,2 @@
 # Otimizacao-Nao-Linear
-Trabalhos Práticos feitos durante a disciplina de Otimização Não Linear
+Trabalho Prático feito durante a disciplina de Otimização Não Linear
